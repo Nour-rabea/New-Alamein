@@ -1,4 +1,4 @@
-![Preview](preview.jpg)
+![Preview](media/Nour.jpg)
 
 ## Live links (replace with your own)
 - Leaflet Map https://nour-rabea.github.io/New-Alamein/
