@@ -7373,7 +7373,8 @@
         "Developers": "ARCO",
         "Areas": 33,
         "fill-opacity": 0.5,
-        "fill": ""
+        "fill": "",
+        "stroke": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -7424,7 +7425,12 @@
       "properties": {
         "Projects": "One Alamein",
         "Developers": "AMER GROUP",
-        "Areas": "100.000 m"
+        "Areas": "100.000 m",
+        "fill-opacity": 0.5,
+        "fill": "#555555",
+        "stroke-opacity": 1,
+        "stroke-width": 2,
+        "stroke": "#555555"
       },
       "geometry": {
         "type": "Polygon",
@@ -7487,7 +7493,12 @@
       "properties": {
         "Projects": "Castle New Project",
         "Developers": "Castle",
-        "Areas": 313
+        "Areas": 313,
+        "fill-opacity": 0.5,
+        "fill": "#555555",
+        "stroke-opacity": 1,
+        "stroke-width": 2,
+        "stroke": "#555555"
       },
       "geometry": {
         "type": "Polygon",
