@@ -5054,7 +5054,8 @@
         "Projects": "Lazorde Bay",
         "Developers": "",
         "fill-opacity": 0.5,
-        "fill": "#555555"
+        "fill": "#555555",
+        "Average Price": 0
       }
     },
     {
@@ -5109,7 +5110,8 @@
       "properties": {
         "Projects": "Farah",
         "Developers": "",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Average Price": 0
       }
     },
     {
@@ -5688,7 +5690,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "Projects": "Marina El Alamen",
-        "Developers": ""
+        "Developers": "",
+        "Average Price": 0
       }
     },
     {
@@ -5700,7 +5703,8 @@
         "fill": "#b10202",
         "fill-opacity": 0.5,
         "Projects": "Castle New Project",
-        "Developers": "Castle Developer"
+        "Developers": "Castle Developer",
+        "Average Price": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -5734,7 +5738,8 @@
       "type": "Feature",
       "properties": {
         "Projects": "Heritage City",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Average Price": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6245,7 +6250,8 @@
       "properties": {
         "Projects": "North Edge Towers",
         "fill-opacity": 0.5,
-        "Developers": "City Edge"
+        "Developers": "City Edge",
+        "Average Price": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6364,7 +6370,8 @@
       "properties": {
         "Projects": "Almasa Hotel",
         "fill-opacity": 0.5,
-        "Developers": ""
+        "Developers": "",
+        "Average Price": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6495,7 +6502,8 @@
       "properties": {
         "Projects": "Mazarine ",
         "fill-opacity": 0.5,
-        "Developers": "City Edge"
+        "Developers": "City Edge",
+        "Average Price": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6662,7 +6670,8 @@
       "properties": {
         "Projects": "Ministries Cabin",
         "fill-opacity": 0.5,
-        "Developers": ""
+        "Developers": "",
+        "Average Price": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6706,7 +6715,8 @@
         "Projects": "Vista Marina",
         "fill-opacity": 0.5,
         "fill": "#555555",
-        "stroke": ""
+        "stroke": "",
+        "Average Price": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6752,7 +6762,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "Projects": "Marsilia Land",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Average Price": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6936,7 +6947,8 @@
         "Developers": "",
         "stroke": "#100e0e",
         "stroke-width": 2,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "Average Price": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -7088,7 +7100,8 @@
         "fill-opacity": 0.5,
         "Projects": "Towers",
         "Developers": "Orascom",
-        "Areas": ""
+        "Areas": "",
+        "Average Price": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -7142,7 +7155,8 @@
         "stroke-opacity": "",
         "fill": "",
         "Developers": "Hassan Allam",
-        "Areas": 62
+        "Areas": 62,
+        "Average Price": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -7218,7 +7232,7 @@
         "Developers": "",
         "Areas": "",
         "stroke": "",
-        "Average Price": ""
+        "Average Price": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -7507,7 +7521,8 @@
         "fill": "#555555",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "stroke": "#555555"
+        "stroke": "#555555",
+        "Average Price": 0
       },
       "geometry": {
         "type": "Polygon",
