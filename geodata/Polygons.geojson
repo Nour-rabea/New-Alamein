@@ -5801,7 +5801,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "Projects": "Latin City",
-        "Developers": "Saudi Egyptian Developers"
+        "Developers": "Saudi Egyptian Developers",
+        "Average Price": "26,000"
       },
       "geometry": {
         "type": "Polygon",
@@ -6040,7 +6041,8 @@
       "properties": {
         "Projects": "Downtown",
         "Developers": "City Edge",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Average Price": "18,751"
       },
       "geometry": {
         "type": "Polygon",
@@ -6075,7 +6077,8 @@
       "properties": {
         "Projects": "Palm Hills",
         "Developers": "Palm Hills",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Average Price": "28,861"
       },
       "geometry": {
         "type": "Polygon",
@@ -6178,7 +6181,8 @@
       "properties": {
         "Projects": "The Gate Towers",
         "fill-opacity": 0.5,
-        "Developers": "City Edge"
+        "Developers": "City Edge",
+        "Average Price": "46,619"
       },
       "geometry": {
         "type": "Polygon",
@@ -6788,7 +6792,8 @@
         "Projects": "Golf Porto Marina",
         "fill-opacity": 0.5,
         "fill": "",
-        "Developers": "AMER GROUP"
+        "Developers": "AMER GROUP",
+        "Average Price": "24,363"
       },
       "geometry": {
         "type": "Polygon",
@@ -6887,7 +6892,8 @@
       "properties": {
         "Projects": "Stella Marina",
         "fill": "",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Average Price": "11,813"
       },
       "geometry": {
         "type": "Polygon",
@@ -7207,12 +7213,12 @@
       "properties": {
         "Projects": "المدينة الترفيهية بالعلمين الجديدة",
         "fill-opacity": 0.5,
-        "DP": "",
         "fill": "#555555",
         "stroke-opacity": 1,
         "Developers": "",
         "Areas": "",
-        "stroke": ""
+        "stroke": "",
+        "Average Price": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -7336,7 +7342,8 @@
         "Projects": "El Alamien Capital",
         "Developers": "Pyramids ",
         "Areas": 14,
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Average Price": "17,619"
       },
       "geometry": {
         "type": "Polygon",
@@ -7374,7 +7381,8 @@
         "Areas": 33,
         "fill-opacity": 0.5,
         "fill": "",
-        "stroke": ""
+        "stroke": "",
+        "Average Price": "18,221"
       },
       "geometry": {
         "type": "Polygon",
@@ -7430,7 +7438,8 @@
         "fill": "#555555",
         "stroke-opacity": 1,
         "stroke-width": 2,
-        "stroke": "#555555"
+        "stroke": "#555555",
+        "Average Price": "20,001"
       },
       "geometry": {
         "type": "Polygon",
@@ -7587,6 +7596,47 @@
             [
               28.883936405181885,
               30.873682398344645
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "Projects": "Marina Valley",
+        "Areas": "",
+        "Developers": "Marina Valley",
+        "Average Price": "15,000"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.973854780197147,
+              30.82818128137535
+            ],
+            [
+              28.972878456115723,
+              30.82535286813849
+            ],
+            [
+              28.976912498474118,
+              30.82374975654071
+            ],
+            [
+              28.977642059326172,
+              30.826624282443206
+            ],
+            [
+              28.973854780197147,
+              30.82818128137535
             ]
           ]
         ]
