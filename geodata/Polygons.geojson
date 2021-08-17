@@ -5802,7 +5802,7 @@
         "fill-opacity": 0.5,
         "Projects": "Latin City",
         "Developers": "Saudi Egyptian Developers",
-        "Average Price": "26,000"
+        "Average Price": 26000
       },
       "geometry": {
         "type": "Polygon",
@@ -6042,7 +6042,7 @@
         "Projects": "Downtown",
         "Developers": "City Edge",
         "fill-opacity": 0.5,
-        "Average Price": "18,751"
+        "Average Price": 18751
       },
       "geometry": {
         "type": "Polygon",
@@ -6078,7 +6078,7 @@
         "Projects": "Palm Hills",
         "Developers": "Palm Hills",
         "fill-opacity": 0.5,
-        "Average Price": "28,861"
+        "Average Price": 28861
       },
       "geometry": {
         "type": "Polygon",
@@ -6182,7 +6182,7 @@
         "Projects": "The Gate Towers",
         "fill-opacity": 0.5,
         "Developers": "City Edge",
-        "Average Price": "46,619"
+        "Average Price": 46619
       },
       "geometry": {
         "type": "Polygon",
@@ -6793,7 +6793,7 @@
         "fill-opacity": 0.5,
         "fill": "",
         "Developers": "AMER GROUP",
-        "Average Price": "24,363"
+        "Average Price": 24363
       },
       "geometry": {
         "type": "Polygon",
@@ -6893,7 +6893,7 @@
         "Projects": "Stella Marina",
         "fill": "",
         "fill-opacity": 0.5,
-        "Average Price": "11,813"
+        "Average Price": 11813
       },
       "geometry": {
         "type": "Polygon",
@@ -7343,7 +7343,7 @@
         "Developers": "Pyramids ",
         "Areas": 14,
         "fill-opacity": 0.5,
-        "Average Price": "17,619"
+        "Average Price": 17619
       },
       "geometry": {
         "type": "Polygon",
@@ -7382,7 +7382,7 @@
         "fill-opacity": 0.5,
         "fill": "",
         "stroke": "",
-        "Average Price": "18,221"
+        "Average Price": 18221
       },
       "geometry": {
         "type": "Polygon",
@@ -7439,7 +7439,7 @@
         "stroke-opacity": 1,
         "stroke-width": 2,
         "stroke": "#555555",
-        "Average Price": "20,001"
+        "Average Price": 20001
       },
       "geometry": {
         "type": "Polygon",
@@ -7612,7 +7612,7 @@
         "Projects": "Marina Valley",
         "Areas": "",
         "Developers": "Marina Valley",
-        "Average Price": "15,000"
+        "Average Price": 15000
       },
       "geometry": {
         "type": "Polygon",
