@@ -92,7 +92,24 @@ else {
      scrollWheelZoom: true,
      tap: true
     }).setView([41.76,-72.69], 11); // default center is overridden by Google Sheet options and points
-  </script>
+
+
+    //Json data search
+const searchLayer = L.geoJSON(Search, {
+  onEachFeature: function(feature, layer) {
+    layer.bindPopup(feature.properties.Project);
+  }
+});
+
+//control search
+const searchControl = new L.Control.Search({
+  layer: searchLayer,
+  zoom: "13",
+  propertyName: 'Project'
+}).setPosition('topright');
+map.addControl(searchControl);
+map.removeLayer(searchLayer);
+</script>
 
   <script type="text/javascript" src="./google-doc-url.js"></script>
   <script type="text/javascript" src="./scripts/constants.js"></script>
